@@ -60,16 +60,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Responsive
 
-**Je opdracht:** Ik ga de website van IMDB na maken waarbij je zelf je eigen lijst kan maken met welke films jouw favorieten zijn. Hierbij komt een beschrijving van de film bij met afbeelding. Dit is een uitdaging omdat ik Hieronder een link naar de site van hoe het nu is. 
-https://www.imdb.com/list/ls021649644/ 
+**Je opdracht:** Ik ga de website van timeout na maken. Hier staan de top 100 beste films ooit op. Hier wil ik zelf een top 10 van maken van de films die ik het beste vind. Hier komt een beschrijving van de film bij met afbeelding. Als je op de afbeelding of titel klikt kan je meer over de film te weten komen.  Hieronder een link naar de site van hoe het nu is. 
+https://www.timeout.com/newyork/movies/best-movies-of-all-time
 
 **Screenshot(s):**
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Header.png)
-[Foto](images/Foto1.png)
-[Foto2](images/Foto2.png)
+[Foto](images/Main.png)
+[Foto2](images/Film.png)
+[Foto3](images/Filminfo1.png)
 [Footer](images/Footer.png)
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdown-schets1.png)
+[Breakdown2](images/Breakdown-schets2.png)
