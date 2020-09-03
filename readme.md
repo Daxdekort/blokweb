@@ -56,15 +56,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Blauw
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** Responsive
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** Ik ga de website van IMDB na maken waarbij je zelf je eigen lijst kan maken met welke films jouw favorieten zijn. Hierbij komt een beschrijving van de film bij met afbeelding. Dit is een uitdaging omdat ik Hieronder een link naar de site van hoe het nu is. 
+https://www.imdb.com/list/ls021649644/ 
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Header.png)
+[Foto](images/Foto1.png)
+[Foto2](images/Foto2.png)
+[Footer](images/Footer.png)
 
 **Breakdown-schets(en):**
 
