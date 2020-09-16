@@ -40,9 +40,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
+Basis onderdelen neerzetten ging goed. 
+Wil eerst de onderdelen hebben en dan daarna de css goed en mooi maken zodat ik het makkelijk en overzichtelijk kan aanpassen. 
+
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+
 
 ### Agenda voor meeting
 
